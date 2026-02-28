@@ -40,13 +40,13 @@
 ###
 
 <div align="center">
-  <a href="a7med4ge@gmail.com" target="_blank">
+  <a href="[mailto:a7med4ge@gmail.com](https://mail.google.com/mail/?view=cm&to=a7med4ge@gmail.com)" target="_blank">
     <img src="https://img.shields.io/static/v1?message=@a7med4ge&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=plastic" height="41" alt="gmail logo"  />
   </a>
-  <a href="www.linkedin.com/in/Forge4" target="_blank">
+  <a href="[www.linkedin.com/in/Forge4](https://www.linkedin.com/in/Forge4)" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=plastic" height="41" alt="linkedin logo"  />
   </a>
-  <a href="t.me/Forge_dev" target="_blank">
+  <a href="[t.me/Forge_dev](https://t.me/forge_dev)" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Forge_dev&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=plastic" height="41" alt="telegram logo"  />
   </a>
 </div>
