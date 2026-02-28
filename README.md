@@ -1,62 +1,50 @@
-<h2 align="left">Hi 👋! My name is Ahmed and I'm a Fresh Backend dev Looking for his First Step</h2>
+<h2 align="left">Hi 👋 I'm Ahmed</h2>
+<h3 align="left">Fresh Backend Developer | Java & Spring Boot 🚀</h3>
 
-###
-
-<h2 align="center">Skills</h2>
-
-###
-
-<br clear="both">
+<h2 align="center">🛠 Core Skills</h2>
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="77" alt="java logo"  />
-  <img width="86" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="77" alt="oracle logo"  />
-  <img width="86" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" height="77" alt="spring logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="75" alt="Java" />
+  <img width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" height="75" alt="Spring Boot" />
+  <img width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="75" alt="Oracle" />
 </div>
 
-###
-
-<h2 align="center">Tools</h2>
-
-###
+<h2 align="center">📡 Backend Focus</h2>
 
 <div align="center">
+  <p>Java * Spring-boot * Rest * MVC * Oracle-databse</p>
 </div>
 
-###
+<h2 align="center">🚀 Currently Learning</h2>
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="74" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" height="74" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" height="70" alt="Docker" />
+  <img width="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="70" alt="Linux" />
 </div>
 
-###
-
-<h2 align="center">Contact Me</h2>
-
-###
+<h2 align="center">⚙ Tools</h2>
 
 <div align="center">
-  <a href="[mailto:a7med4ge@gmail.com](https://mail.google.com/mail/?view=cm&to=a7med4ge@gmail.com)" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=@a7med4ge&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=plastic" height="41" alt="gmail logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="70" alt="VS Code" />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" height="70" alt="Git" />
+</div>
+
+<h2 align="center">📫 Contact</h2>
+
+<div align="center">
+  <a href="https://mail.google.com/mail/?view=cm&to=a7med4ge@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="[www.linkedin.com/in/Forge4](https://www.linkedin.com/in/Forge4)" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=plastic" height="41" alt="linkedin logo"  />
+
+  <a href="https://www.linkedin.com/in/Forge4" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="[t.me/Forge_dev](https://t.me/forge_dev)" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Forge_dev&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=plastic" height="41" alt="telegram logo"  />
+
+  <a href="https://t.me/forge_dev" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img height="190" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWVmZHRtaTNubDA5cHZrNHIxdnNnazIxNmY5bHVqcnVwejRsbGQ4aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KhhUagdNDkhKKyBPHe/giphy.gif"  />
-</div>
-
-###
